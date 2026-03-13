@@ -1,5 +1,4 @@
 {
-    "$schema": "https://json-schema.org/draft/07/schema",
     "$id": "https://raw.githubusercontent.com/minimal-platform-test/main/nextflow_schema.json",
     "title": "minimal-platform-test pipeline parameters",
     "description": "Minimal pipeline for Seqera Platform testing",
