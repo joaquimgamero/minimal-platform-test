@@ -1,8 +1,5 @@
 #!/usr/bin/env nextflow
 
-params.greeting = "Hello"
-params.name     = "World"
-
 process SAY_HELLO {
     debug true
 
