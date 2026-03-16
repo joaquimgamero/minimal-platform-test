@@ -11,12 +11,12 @@
             "properties": {
                 "greeting": {
                     "type": "string",
-                    "default": "okay",
+                    "default": "okay2",
                     "description": "Greeting word"
                 },
                 "name": {
                     "type": "string",
-                    "default": "alright",
+                    "default": "alright2",
                     "description": "Name to greet"
                 }
             }
